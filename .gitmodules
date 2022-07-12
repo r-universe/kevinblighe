@@ -3,13 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "EnhancedVolcano"]
-	path = EnhancedVolcano
-	url = https://github.com/kevinblighe/enhancedvolcano
-	shallow = true
-	registered = true
-[submodule "PCAtools"]
-	path = PCAtools
-	url = https://github.com/kevinblighe/pcatools
-	shallow = true
-	registered = true
