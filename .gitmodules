@@ -13,3 +13,8 @@
 	url = https://github.com/kevinblighe/pcatools
 	shallow = true
 	registered = true
+[submodule "scDataviz"]
+	path = scDataviz
+	url = https://github.com/kevinblighe/scdataviz
+	shallow = true
+	registered = true
