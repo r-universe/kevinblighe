@@ -1,11 +1,5 @@
 [
   {
     "package": "EnhancedVolcano"
-  },
-  {
-    "package": "PCAtools"
-  },
-  {
-    "package": "scDataviz"
   }
 ]
