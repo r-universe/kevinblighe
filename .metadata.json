@@ -1,5 +1,8 @@
 [
   {
     "package": "EnhancedVolcano"
+  },
+  {
+    "package": "PCAtools"
   }
 ]

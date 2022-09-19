@@ -8,3 +8,8 @@
 	url = https://github.com/kevinblighe/enhancedvolcano
 	shallow = true
 	registered = true
+[submodule "PCAtools"]
+	path = PCAtools
+	url = https://github.com/kevinblighe/pcatools
+	shallow = true
+	registered = true
