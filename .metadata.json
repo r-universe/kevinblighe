@@ -1,9 +1,9 @@
 [
   {
-    "package": "PCAtools"
+    "package": "EnhancedVolcano"
   },
   {
-    "package": "EnhancedVolcano"
+    "package": "PCAtools"
   },
   {
     "package": "scDataviz"
